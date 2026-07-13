@@ -141,49 +141,49 @@
   <g clip-path="url(#leftPanelClip)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="7s" repeatCount="indefinite"/>
-      <text x="44" y="84.00" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.  .. '"''""""",,:,::,, ';::,,,,"',,'`.        ....''`          .`''`   <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.0s" repeatCount="indefinite"/></text>
-<text x="44" y="92.24" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">..`` ',""",""",,::,,:,," :::::,,:,""'```.            .......     .",:'  <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.045s" repeatCount="indefinite"/></text>
-<text x="44" y="100.48" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">"''`",,,,,,,,,,,:,,,::,'`.;:,::,,,"'``.```..  ..     .",,,"       ,"":` <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.09s" repeatCount="indefinite"/></text>
-<text x="44" y="108.72" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,,',,,,,,,,,,,,::,,,::,"'..::,,,,,,,'.....``..  ..    .`''.     ...'""`.<animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.135s" repeatCount="indefinite"/></text>
-<text x="44" y="116.96" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:",,,,,,,,,,,,,::,,,:::,''. ":,,,,,"""`.   ```..  ...             ..'",'<animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.18s" repeatCount="indefinite"/></text>
-<text x="44" y="125.20" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,',,,,,,,,,,,,,:,,,,:,::,'`` `":,,,,''''`.   `""`......`..       .`.''. <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.225s" repeatCount="indefinite"/></text>
-<text x="44" y="133.44" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">`",""",,,,,:,,,:,,,,,,,::,"'`  '::,,,"'````.  .""'""'`..           ,,.  <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.27s" repeatCount="indefinite"/></text>
-<text x="44" y="141.68" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">":,",,,",,,,,,,::,,,,,,,;;,,"'` .',:,,""````'`. '``"::,'.        ..'''. <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.315s" repeatCount="indefinite"/></text>
-<text x="44" y="149.92" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:,""",,,,,,,,,,,:,,,,,,,,:;::,,"`. `",,,,"'```''`'  .",:"`.      ':"",,.<animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.36s" repeatCount="indefinite"/></text>
-<text x="44" y="158.16" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:"",,,,,,",,,,,:::",,,,,,,::,,,,::,'''",,:,,"'```..   `""::,,"'.   '`  `<animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.405s" repeatCount="indefinite"/></text>
-<text x="44" y="166.40" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:",,,,"::",,",,;,:,,,,:,,,::;,"'",-::;,,,:-:,,,,,""""''`''`.`'":;-:":,..<animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.45s" repeatCount="indefinite"/></text>
-<text x="44" y="174.64" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,,,",,":;,,,"",-:,,,,",,""::,:;:"`";;*~:'':~~-;:::,'`""`   ... .;--,    <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.495s" repeatCount="indefinite"/></text>
-<text x="44" y="182.88" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">'"",,,",:,","""~+:":,,",,"':"",::,'",;-~-"'";~;;;-;;``',"``..`'`'-,"'.  <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.54s" repeatCount="indefinite"/></text>
-<text x="44" y="191.12" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">`',,,:"",,":,,:--~";~":,,,'':"""'`::,~;-~~:,"""`...":,:""",:,,,":-::.   <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.585s" repeatCount="indefinite"/></text>
-<text x="44" y="199.36" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.',,",,"""";,,-;:+;"+~,:,","'",,' .,',+;,.  .':,,",,-~---;:,::::;. .'   <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.63s" repeatCount="indefinite"/></text>
-<text x="44" y="207.60" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">..",',:,""",;:~;::-::~;,:,",,"'"". "=,;-` `,-~*#@%==~%~"--;"`. `",`     <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.675s" repeatCount="indefinite"/></text>
-<text x="44" y="215.84" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">``',""":,""":--"",,,::::::""";:'"' .-~;-+*%@=,*%#%` `%'`."':'     .     <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.72s" repeatCount="indefinite"/></text>
-<text x="44" y="224.08" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,``,,'"","","~+:,::::;----,""";,"'"',;+#**@*~-==#-  =-   ' "'.          <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.765s" repeatCount="indefinite"/></text>
-<text x="44" y="232.32" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">: '':'',"'",:+#***###*#%###:"",:"`.'';++``~+==+;; `~~    , '.           <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.81s" repeatCount="indefinite"/></text>
-<text x="44" y="240.56" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,`:'.,'',"",;+:';@%#~,*%@#-=~,",''`  `,.   .`'`..'"`     ` "            <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.855s" repeatCount="indefinite"/></text>
-<text x="44" y="248.80" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,'."' ,"'"","~~  -==*##*#-`":;:",'''  `'  . ....`       .''.            <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.9s" repeatCount="indefinite"/></text>
-<text x="44" y="257.04" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.   `';~;,"--,+=" `,,~~:'",""":;::'`'. .`.              .#+             <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.945s" repeatCount="indefinite"/></text>
-<text x="44" y="265.28" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.   .,`"-#~~-:;++-,`.```',,"""",;::,```. `,'``.         '*,.            <animate attributeName="opacity" values="0;1" dur="10.0s" begin="0.99s" repeatCount="indefinite"/></text>
-<text x="44" y="273.52" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.       ,-+-:`":",,,",,""""""""",--~~:,'`..``.  .`.     :~'`            <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.035s" repeatCount="indefinite"/></text>
-<text x="44" y="281.76" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.       ` :~;. `,""""""""""""""","'"-;:,""""''```.`'   .='`             <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.08s" repeatCount="indefinite"/></text>
-<text x="44" y="290.00" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.         `---  `""""""""""""""",".. ..   .`'""""`     ~#  .            <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.125s" repeatCount="indefinite"/></text>
-<text x="44" y="298.24" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.         ``.;;  '""'""""""""",",'.    .      ...     --,`".".          <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.17s" repeatCount="indefinite"/></text>
-<text x="44" y="306.48" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             :, ."''""""""""","",.  `~;             ~;'```  '          <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.215s" repeatCount="indefinite"/></text>
-<text x="44" y="314.72" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             .=, `"''"""""""""',~~;;*=.            ;+ "".   ",`"`      <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.26s" repeatCount="indefinite"/></text>
-<text x="44" y="322.96" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             `"~+`''''""''""""'"";~~~.            ;* .,.    :`  "      <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.305s" repeatCount="indefinite"/></text>
-<text x="44" y="331.20" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             . "#=;"`'"'''"''"''"";;.            -#' ,.   .,'   '.     <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.35s" repeatCount="indefinite"/></text>
-<text x="44" y="339.44" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.               '~-*=;''''''''"''"",.           .~*; `:    :"    `"`".  <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.395s" repeatCount="indefinite"/></text>
-<text x="44" y="347.68" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                "";++~;"`''"''''""""'.        `*;:' ;.    :      '. "  <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.44s" repeatCount="indefinite"/></text>
-<text x="44" y="355.92" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                .;":-~+=-"`'''''"""`         ,*, ' ;'  .'=-    .  ` ," <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.485s" repeatCount="indefinite"/></text>
-<text x="44" y="364.16" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 ~:",~~++*~,''''"'"'        -=" `.:".,+*%@~          ""<animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.53s" repeatCount="indefinite"/></text>
-<text x="44" y="372.40" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 -%-"";~--+=+:"`''"`      '+=` ..":;#@@@%%=     .  ` .`<animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.575s" repeatCount="indefinite"/></text>
-<text x="44" y="380.64" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 ;@@#~;;--;;+~~-,'''.   '-=+`  ''~+@@%%%%@*    .     '.<animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.62s" repeatCount="indefinite"/></text>
-<text x="44" y="388.88" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 ,%%@@%*=~~-~~;-+~-;:,:-++,  .,~#@@%%@@@%@%.        `. <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.665s" repeatCount="indefinite"/></text>
-<text x="44" y="397.12" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 "@%%%@@@@%##**++~+~--+==~:-=#@@@%@@@@@@@%@-        .  <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.71s" repeatCount="indefinite"/></text>
-<text x="44" y="405.36" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 :@%@@@%%%@@@@@@@@%%%%%%@@@@@@%%%@@@@@@@@@%@;          <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.755s" repeatCount="indefinite"/></text>
-<text x="44" y="413.60" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.               .,*%%@@@@@@@%%%%%%@@@@@@@%%%%%%@@@@@@@@@@@@@%@~         <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.8s" repeatCount="indefinite"/></text>
-<text x="44" y="421.84" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             '-#@@%@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@%@=`       <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.845s" repeatCount="indefinite"/></text>
-<text x="44" y="430.08" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.          `;*@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#`      <animate attributeName="opacity" values="0;1" dur="10.0s" begin="1.89s" repeatCount="indefinite"/></text>
+      <text x="44" y="84.00" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.  .. '"''""""",,:,::,, ';::,,,,"',,'`.        ....''`          .`''`   <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="44" y="92.24" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">..`` ',""",""",,::,,:,," :::::,,:,""'```.            .......     .",:'  <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.045s" repeatCount="indefinite"/></text>
+<text x="44" y="100.48" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">"''`",,,,,,,,,,,:,,,::,'`.;:,::,,,"'``.```..  ..     .",,,"       ,"":` <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.09s" repeatCount="indefinite"/></text>
+<text x="44" y="108.72" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,,',,,,,,,,,,,,::,,,::,"'..::,,,,,,,'.....``..  ..    .`''.     ...'""`.<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.135s" repeatCount="indefinite"/></text>
+<text x="44" y="116.96" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:",,,,,,,,,,,,,::,,,:::,''. ":,,,,,"""`.   ```..  ...             ..'",'<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.18s" repeatCount="indefinite"/></text>
+<text x="44" y="125.20" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,',,,,,,,,,,,,,:,,,,:,::,'`` `":,,,,''''`.   `""`......`..       .`.''. <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.225s" repeatCount="indefinite"/></text>
+<text x="44" y="133.44" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">`",""",,,,,:,,,:,,,,,,,::,"'`  '::,,,"'````.  .""'""'`..           ,,.  <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.27s" repeatCount="indefinite"/></text>
+<text x="44" y="141.68" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">":,",,,",,,,,,,::,,,,,,,;;,,"'` .',:,,""````'`. '``"::,'.        ..'''. <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.315s" repeatCount="indefinite"/></text>
+<text x="44" y="149.92" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:,""",,,,,,,,,,,:,,,,,,,,:;::,,"`. `",,,,"'```''`'  .",:"`.      ':"",,.<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.36s" repeatCount="indefinite"/></text>
+<text x="44" y="158.16" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:"",,,,,,",,,,,:::",,,,,,,::,,,,::,'''",,:,,"'```..   `""::,,"'.   '`  `<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.405s" repeatCount="indefinite"/></text>
+<text x="44" y="166.40" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">:",,,,"::",,",,;,:,,,,:,,,::;,"'",-::;,,,:-:,,,,,""""''`''`.`'":;-:":,..<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.45s" repeatCount="indefinite"/></text>
+<text x="44" y="174.64" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,,,",,":;,,,"",-:,,,,",,""::,:;:"`";;*~:'':~~-;:::,'`""`   ... .;--,    <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.495s" repeatCount="indefinite"/></text>
+<text x="44" y="182.88" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">'"",,,",:,","""~+:":,,",,"':"",::,'",;-~-"'";~;;;-;;``',"``..`'`'-,"'.  <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.54s" repeatCount="indefinite"/></text>
+<text x="44" y="191.12" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">`',,,:"",,":,,:--~";~":,,,'':"""'`::,~;-~~:,"""`...":,:""",:,,,":-::.   <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.585s" repeatCount="indefinite"/></text>
+<text x="44" y="199.36" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.',,",,"""";,,-;:+;"+~,:,","'",,' .,',+;,.  .':,,",,-~---;:,::::;. .'   <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.63s" repeatCount="indefinite"/></text>
+<text x="44" y="207.60" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">..",',:,""",;:~;::-::~;,:,",,"'"". "=,;-` `,-~*#@%==~%~"--;"`. `",`     <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.675s" repeatCount="indefinite"/></text>
+<text x="44" y="215.84" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">``',""":,""":--"",,,::::::""";:'"' .-~;-+*%@=,*%#%` `%'`."':'     .     <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.72s" repeatCount="indefinite"/></text>
+<text x="44" y="224.08" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,``,,'"","","~+:,::::;----,""";,"'"',;+#**@*~-==#-  =-   ' "'.          <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.765s" repeatCount="indefinite"/></text>
+<text x="44" y="232.32" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">: '':'',"'",:+#***###*#%###:"",:"`.'';++``~+==+;; `~~    , '.           <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.81s" repeatCount="indefinite"/></text>
+<text x="44" y="240.56" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,`:'.,'',"",;+:';@%#~,*%@#-=~,",''`  `,.   .`'`..'"`     ` "            <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.855s" repeatCount="indefinite"/></text>
+<text x="44" y="248.80" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">,'."' ,"'"","~~  -==*##*#-`":;:",'''  `'  . ....`       .''.            <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.9s" repeatCount="indefinite"/></text>
+<text x="44" y="257.04" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.   `';~;,"--,+=" `,,~~:'",""":;::'`'. .`.              .#+             <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.945s" repeatCount="indefinite"/></text>
+<text x="44" y="265.28" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.   .,`"-#~~-:;++-,`.```',,"""",;::,```. `,'``.         '*,.            <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="0.99s" repeatCount="indefinite"/></text>
+<text x="44" y="273.52" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.       ,-+-:`":",,,",,""""""""",--~~:,'`..``.  .`.     :~'`            <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.035s" repeatCount="indefinite"/></text>
+<text x="44" y="281.76" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.       ` :~;. `,""""""""""""""","'"-;:,""""''```.`'   .='`             <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.08s" repeatCount="indefinite"/></text>
+<text x="44" y="290.00" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.         `---  `""""""""""""""",".. ..   .`'""""`     ~#  .            <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.125s" repeatCount="indefinite"/></text>
+<text x="44" y="298.24" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.         ``.;;  '""'""""""""",",'.    .      ...     --,`".".          <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.17s" repeatCount="indefinite"/></text>
+<text x="44" y="306.48" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             :, ."''""""""""","",.  `~;             ~;'```  '          <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.215s" repeatCount="indefinite"/></text>
+<text x="44" y="314.72" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             .=, `"''"""""""""',~~;;*=.            ;+ "".   ",`"`      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.26s" repeatCount="indefinite"/></text>
+<text x="44" y="322.96" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             `"~+`''''""''""""'"";~~~.            ;* .,.    :`  "      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.305s" repeatCount="indefinite"/></text>
+<text x="44" y="331.20" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             . "#=;"`'"'''"''"''"";;.            -#' ,.   .,'   '.     <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.35s" repeatCount="indefinite"/></text>
+<text x="44" y="339.44" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.               '~-*=;''''''''"''"",.           .~*; `:    :"    `"`".  <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.395s" repeatCount="indefinite"/></text>
+<text x="44" y="347.68" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                "";++~;"`''"''''""""'.        `*;:' ;.    :      '. "  <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.44s" repeatCount="indefinite"/></text>
+<text x="44" y="355.92" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                .;":-~+=-"`'''''"""`         ,*, ' ;'  .'=-    .  ` ," <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.485s" repeatCount="indefinite"/></text>
+<text x="44" y="364.16" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 ~:",~~++*~,''''"'"'        -=" `.:".,+*%@~          ""<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.53s" repeatCount="indefinite"/></text>
+<text x="44" y="372.40" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 -%-"";~--+=+:"`''"`      '+=` ..":;#@@@%%=     .  ` .`<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.575s" repeatCount="indefinite"/></text>
+<text x="44" y="380.64" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 ;@@#~;;--;;+~~-,'''.   '-=+`  ''~+@@%%%%@*    .     '.<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.62s" repeatCount="indefinite"/></text>
+<text x="44" y="388.88" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 ,%%@@%*=~~-~~;-+~-;:,:-++,  .,~#@@%%@@@%@%.        `. <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.665s" repeatCount="indefinite"/></text>
+<text x="44" y="397.12" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 "@%%%@@@@%##**++~+~--+==~:-=#@@@%@@@@@@@%@-        .  <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.71s" repeatCount="indefinite"/></text>
+<text x="44" y="405.36" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.                 :@%@@@%%%@@@@@@@@%%%%%%@@@@@@%%%@@@@@@@@@%@;          <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.755s" repeatCount="indefinite"/></text>
+<text x="44" y="413.60" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.               .,*%%@@@@@@@%%%%%%@@@@@@@%%%%%%@@@@@@@@@@@@@%@~         <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.8s" repeatCount="indefinite"/></text>
+<text x="44" y="421.84" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.             '-#@@%@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@%@=`       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.845s" repeatCount="indefinite"/></text>
+<text x="44" y="430.08" class="ascii-line" textLength="356" lengthAdjust="spacingAndGlyphs" opacity="0">.          `;*@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#`      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.03;1" dur="10.0s" begin="1.89s" repeatCount="indefinite"/></text>
     </g>
     <rect x="44" y="-40" width="356" height="18" fill="url(#scanGrad)" opacity="0.7">
       <animate attributeName="y" values="64;458.32" dur="4.5s" repeatCount="indefinite"/>
@@ -227,37 +227,37 @@
   <text x="500" y="202" class="status-text" font-size="18">$</text>
   
 <text x="524" y="202" class="role-text" textLength="0" opacity="0">
-  <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12.0s" begin="0.0s"
-           keyTimes="0;0.001;0.05;0.85;0.9;1" repeatCount="indefinite"/>
-  <animate attributeName="textLength" values="0;188;188;188;188;188"
-           dur="12.0s" begin="0.0s" keyTimes="0;0.001;0.05;0.85;0.9;1"
+  <animate attributeName="opacity" values="0;1;1;0;0" dur="12.0s" begin="0.0s"
+           keyTimes="0;0.0292;0.2208;0.25;1" repeatCount="indefinite"/>
+  <animate attributeName="textLength" values="0;188;188;188;0"
+           dur="12.0s" begin="0.0s" keyTimes="0;0.0292;0.2208;0.25;1"
            repeatCount="indefinite" calcMode="linear"/>
   <tspan lengthAdjust="spacingAndGlyphs">Full Stack Developer</tspan>
 </text>
 
 <text x="524" y="202" class="role-text" textLength="0" opacity="0">
-  <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12.0s" begin="3.0s"
-           keyTimes="0;0.001;0.05;0.85;0.9;1" repeatCount="indefinite"/>
-  <animate attributeName="textLength" values="0;273;273;273;273;273"
-           dur="12.0s" begin="3.0s" keyTimes="0;0.001;0.05;0.85;0.9;1"
+  <animate attributeName="opacity" values="0;1;1;0;0" dur="12.0s" begin="3.0s"
+           keyTimes="0;0.0292;0.2208;0.25;1" repeatCount="indefinite"/>
+  <animate attributeName="textLength" values="0;273;273;273;0"
+           dur="12.0s" begin="3.0s" keyTimes="0;0.0292;0.2208;0.25;1"
            repeatCount="indefinite" calcMode="linear"/>
   <tspan lengthAdjust="spacingAndGlyphs">Co-founder @ DevCoder Systems</tspan>
 </text>
 
 <text x="524" y="202" class="role-text" textLength="0" opacity="0">
-  <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12.0s" begin="6.0s"
-           keyTimes="0;0.001;0.05;0.85;0.9;1" repeatCount="indefinite"/>
-  <animate attributeName="textLength" values="0;179;179;179;179;179"
-           dur="12.0s" begin="6.0s" keyTimes="0;0.001;0.05;0.85;0.9;1"
+  <animate attributeName="opacity" values="0;1;1;0;0" dur="12.0s" begin="6.0s"
+           keyTimes="0;0.0292;0.2208;0.25;1" repeatCount="indefinite"/>
+  <animate attributeName="textLength" values="0;179;179;179;0"
+           dur="12.0s" begin="6.0s" keyTimes="0;0.0292;0.2208;0.25;1"
            repeatCount="indefinite" calcMode="linear"/>
   <tspan lengthAdjust="spacingAndGlyphs">Systems Dev Student</tspan>
 </text>
 
 <text x="524" y="202" class="role-text" textLength="0" opacity="0">
-  <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12.0s" begin="9.0s"
-           keyTimes="0;0.001;0.05;0.85;0.9;1" repeatCount="indefinite"/>
-  <animate attributeName="textLength" values="0;273;273;273;273;273"
-           dur="12.0s" begin="9.0s" keyTimes="0;0.001;0.05;0.85;0.9;1"
+  <animate attributeName="opacity" values="0;1;1;0;0" dur="12.0s" begin="9.0s"
+           keyTimes="0;0.0292;0.2208;0.25;1" repeatCount="indefinite"/>
+  <animate attributeName="textLength" values="0;273;273;273;0"
+           dur="12.0s" begin="9.0s" keyTimes="0;0.0292;0.2208;0.25;1"
            repeatCount="indefinite" calcMode="linear"/>
   <tspan lengthAdjust="spacingAndGlyphs">Building for local businesses</tspan>
 </text>
