@@ -42,14 +42,14 @@ Estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Prof. Edson Galvão.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaomenkdev-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=joaomenkdev-cloud&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="./profile/stats.svg" alt="GitHub stats" height="165"/>
+<img src="./profile/streak.svg" alt="GitHub streak" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenkdev-cloud&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 
 </div>
 
