@@ -9,7 +9,6 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devcodersystems.tech-7C3AED?style=for-the-badge)](https://devcodersystems.tech)
-[![Instagram](https://img.shields.io/badge/Instagram-@joaomenkdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaomenkdev)
 [![Email](https://img.shields.io/badge/Email-joaomenkdev@gmail.com-22D3EE?style=for-the-badge)](mailto:joaomenkdev@gmail.com)
 
 </div>
@@ -43,14 +42,14 @@ Estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Prof. Edson Galvão.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaomenkdev-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaomenkdev-cloud&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaomenkdev-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=joaomenkdev-cloud&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenkdev-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenkdev-cloud&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="165"/>
 
 </div>
 

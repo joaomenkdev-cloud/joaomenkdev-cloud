@@ -387,39 +387,30 @@
     
 <g opacity="0">
   <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.00s" fill="freeze"/>
-  <circle cx="516" cy="570" r="16" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
-    <animate attributeName="r" values="16;16.8;16" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+  <circle cx="517" cy="570" r="17" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
+    <animate attributeName="r" values="17;17.8;17" dur="3s" begin="0.0s" repeatCount="indefinite"/>
   </circle>
-  <text x="516" y="574" text-anchor="middle" font-size="10" font-weight="700" fill="#22D3EE">GH</text>
-  <text x="540" y="568" class="muted-text" font-size="10.5">GitHub</text>
-  <text x="540" y="583" class="value-text" font-size="11.5">github.com/joaomenkdev-cloud</text>
+  <text x="517" y="574" text-anchor="middle" font-size="10.5" font-weight="700" fill="#22D3EE">GH</text>
+  <text x="544" y="567" class="muted-text" font-size="11">GitHub</text>
+  <text x="544" y="584" class="value-text" font-size="13">github.com/joaomenkdev-cloud</text>
 </g>
 <g opacity="0">
   <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.15s" fill="freeze"/>
-  <circle cx="681" cy="570" r="16" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
-    <animate attributeName="r" values="16;16.8;16" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  <circle cx="727.6666666666666" cy="570" r="17" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
+    <animate attributeName="r" values="17;17.8;17" dur="3s" begin="0.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="681" y="574" text-anchor="middle" font-size="10" font-weight="700" fill="#22D3EE">IN</text>
-  <text x="705" y="568" class="muted-text" font-size="10.5">Instagram</text>
-  <text x="705" y="583" class="value-text" font-size="11.5">@joaomenkdev</text>
+  <text x="727.6666666666666" y="574" text-anchor="middle" font-size="10.5" font-weight="700" fill="#22D3EE">WW</text>
+  <text x="754.6666666666666" y="567" class="muted-text" font-size="11">Portfolio</text>
+  <text x="754.6666666666666" y="584" class="value-text" font-size="13">devcodersystems.tech</text>
 </g>
 <g opacity="0">
   <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.30s" fill="freeze"/>
-  <circle cx="846" cy="570" r="16" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
-    <animate attributeName="r" values="16;16.8;16" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+  <circle cx="938.3333333333333" cy="570" r="17" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
+    <animate attributeName="r" values="17;17.8;17" dur="3s" begin="0.8s" repeatCount="indefinite"/>
   </circle>
-  <text x="846" y="574" text-anchor="middle" font-size="10" font-weight="700" fill="#22D3EE">WW</text>
-  <text x="870" y="568" class="muted-text" font-size="10.5">Portfolio</text>
-  <text x="870" y="583" class="value-text" font-size="11.5">devcodersystems.tech</text>
-</g>
-<g opacity="0">
-  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.45s" fill="freeze"/>
-  <circle cx="1011" cy="570" r="16" fill="#111827" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#pillGlow)">
-    <animate attributeName="r" values="16;16.8;16" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/>
-  </circle>
-  <text x="1011" y="574" text-anchor="middle" font-size="10" font-weight="700" fill="#22D3EE">@</text>
-  <text x="1035" y="568" class="muted-text" font-size="10.5">Email</text>
-  <text x="1035" y="583" class="value-text" font-size="11.5">joaomenkdev@gmail.com</text>
+  <text x="938.3333333333333" y="574" text-anchor="middle" font-size="10.5" font-weight="700" fill="#22D3EE">@</text>
+  <text x="965.3333333333333" y="567" class="muted-text" font-size="11">Email</text>
+  <text x="965.3333333333333" y="584" class="value-text" font-size="13">joaomenkdev@gmail.com</text>
 </g>
   </g>
 </g>
